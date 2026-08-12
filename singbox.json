@@ -117,7 +117,7 @@
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/redirect/playlist",
+        "path": "/faq/services/shows",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -134,36 +134,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-      "server": "104.19.32.140",
-      "server_port": 2096,
-      "password": "e6202667-d7e3-4495-8cce-a76920604580",
-      "transport": {
-        "type": "ws",
-        "path": "/feedback/work/class",
-        "headers": {
-          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-      "server": "104.16.244.166",
+      "tag": "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+      "server": "8.39.125.212",
       "server_port": 2087,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/magnet/stars",
+        "path": "/product/bt/discuss",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -180,13 +157,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-      "server": "104.19.146.164",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+      "server": "91.193.59.198",
+      "server_port": 2087,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/courses/program/torrent",
+        "path": "/sort/info",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -203,36 +180,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-      "server": "104.19.149.149",
-      "server_port": 8443,
-      "password": "e6202667-d7e3-4495-8cce-a76920604580",
-      "transport": {
-        "type": "ws",
-        "path": "/section",
-        "headers": {
-          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-      "server": "162.159.41.55",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+      "server": "172.67.71.5",
       "server_port": 2053,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/htm",
+        "path": "/show/pay/mobile",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -249,13 +203,36 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-      "server": "104.16.252.100",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+      "server": "104.19.52.148",
+      "server_port": 2096,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/live/article/books",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+      "server": "104.16.240.213",
       "server_port": 8443,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/go.html/question",
+        "path": "/community/images",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -272,13 +249,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-      "server": "91.193.58.245",
+      "tag": "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+      "server": "8.35.211.79",
       "server_port": 8443,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/class/document",
+        "path": "/picture/seller/my",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -295,36 +272,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-      "server": "104.17.63.49",
-      "server_port": 2087,
-      "password": "e6202667-d7e3-4495-8cce-a76920604580",
-      "transport": {
-        "type": "ws",
-        "path": "/u/china/films",
-        "headers": {
-          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-      "server": "104.17.59.224",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+      "server": "104.18.33.252",
       "server_port": 8443,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/pages/zh/uploads",
+        "path": "/shop/stock/stream",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -341,13 +295,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-      "server": "104.17.221.139",
+      "tag": "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+      "server": "8.39.125.44",
       "server_port": 443,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/wenku/my",
+        "path": "/seller",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -364,36 +318,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-      "server": "104.17.111.175",
-      "server_port": 2083,
-      "password": "e6202667-d7e3-4495-8cce-a76920604580",
-      "transport": {
-        "type": "ws",
-        "path": "/china/image/club",
-        "headers": {
-          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-      "server": "8.39.125.66",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+      "server": "104.17.154.188",
       "server_port": 2053,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/movies/zh-cn",
+        "path": "/seller",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -410,13 +341,13 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-      "server": "91.193.58.59",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+      "server": "172.66.1.223",
       "server_port": 2083,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/trade",
+        "path": "/channels",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -433,13 +364,59 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-      "server": "104.19.147.145",
+      "tag": "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+      "server": "162.159.33.228",
+      "server_port": 443,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/live/events",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+      "server": "188.164.248.226",
+      "server_port": 2096,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/member/channel/shows",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+      "server": "104.17.24.227",
       "server_port": 2083,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/pdf/channel",
+        "path": "/f/links/ad",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -456,36 +433,105 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-      "server": "104.19.35.163",
-      "server_port": 2087,
-      "password": "e6202667-d7e3-4495-8cce-a76920604580",
-      "transport": {
-        "type": "ws",
-        "path": "/static/apps",
-        "headers": {
-          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]",
-      "server": "172.67.76.108",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+      "server": "104.17.215.55",
       "server_port": 8443,
       "password": "e6202667-d7e3-4495-8cce-a76920604580",
       "transport": {
         "type": "ws",
-        "path": "/config/go.php/live",
+        "path": "/urls/special",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+      "server": "172.66.2.224",
+      "server_port": 2096,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/cb",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+      "server": "91.193.59.69",
+      "server_port": 2053,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/shop/m",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+      "server": "104.18.1.1",
+      "server_port": 2053,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/topic/tool",
+        "headers": {
+          "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "quiet-orchard-b1e7.akbarmoolayi.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]",
+      "server": "104.18.0.0",
+      "server_port": 443,
+      "password": "e6202667-d7e3-4495-8cce-a76920604580",
+      "transport": {
+        "type": "ws",
+        "path": "/pay/lib/company",
         "headers": {
           "Host": "quiet-orchard-b1e7.akbarmoolayi.workers.dev"
         }
@@ -511,22 +557,24 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
@@ -534,22 +582,24 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -560,22 +610,24 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
@@ -583,22 +635,24 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
@@ -634,22 +688,24 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
@@ -665,22 +721,24 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
@@ -691,22 +749,24 @@
         "🖤⁦:⁠-⁠D⁩   🌺😂",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy quiet-orchard-b1e7.akbarmoolayi.workers.dev:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.32.140:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.244.166:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.146.164:2096 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.149.149:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 162.159.41.55:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.16.252.100:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.245:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.63.49:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.59.224:8443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.221.139:443 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.17.111.175:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 8.39.125.66:2053 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 91.193.58.59:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.147.145:2083 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 104.19.35.163:2087 [TROJAN]",
-        "سرویس رایگان نوا @irnova_proxy 172.67.76.108:8443 [TROJAN]"
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.212:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.198:2087 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.71.5:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.19.52.148:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.240.213:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.35.211.79:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.33.252:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 8.39.125.44:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.154.188:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.1.223:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 162.159.33.228:443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 188.164.248.226:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.24.227:2083 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.215.55:8443 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 172.66.2.224:2096 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 91.193.59.69:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [TROJAN]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [TROJAN]"
       ]
     },
     {
